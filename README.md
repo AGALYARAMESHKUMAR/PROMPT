@@ -76,15 +76,11 @@ This report explains the foundational concepts of Generative AI, its architectur
    * VAEs
    * Diffusion Models
 4. Introduction to Large Language Models (LLMs)
-5. Architecture of LLMs
-   * Transformers
-   * GPT
-   * BERT
-6. Training Process and Data Requirements
-7. Applications of Generative AI
-8. Limitations and Ethical Considerations
-9. Impact of Scaling in LLMs
-10. Future Trends
+5. Training Process and Data Requirements
+6. Applications of Generative AI
+7. Limitations and Ethical Considerations
+8. Impact of Scaling in LLMs
+9. Future Trends
 
 ---
 
@@ -144,7 +140,7 @@ They are trained on vast amounts of text and can perform tasks like translation,
 ---
 
 
-### **6. Training Process and Data Requirements**
+### **5. Training Process and Data Requirements**
 Training LLMs involves:
 
 - Data Collection: Massive text datasets from books, websites, research papers
@@ -159,7 +155,7 @@ Training LLMs involves:
 
 ---
 
-### **7. Applications of Generative AI**
+### **6. Applications of Generative AI**
 
 - Text Generation: Articles, stories, scripts
 
@@ -174,7 +170,7 @@ Training LLMs involves:
 - Education: Personalized tutoring
 ---
 
-### **8. Limitations and Ethical Considerations**
+### **7. Limitations and Ethical Considerations**
 
 - Bias and Fairness: Models can inherit dataset biases
 
@@ -186,7 +182,7 @@ Training LLMs involves:
   
 ---
 
-### **9. Impact of Scaling in LLMs**
+### **8. Impact of Scaling in LLMs**
 
 Scaling laws in AI (Kaplan et al., 2020) show that increasing model parameters, training data, and compute improves performance predictably — but with diminishing returns.
 
@@ -199,7 +195,7 @@ GPT-4	    ~1T (est.)	  Multi-modal	   Advanced reasoning
 ```
 ---
 
-### **10. Future Trends**
+### **9. Future Trends**
 
 - Multimodal AI: Text, images, video, and audio together
 
