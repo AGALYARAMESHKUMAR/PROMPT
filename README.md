@@ -143,28 +143,6 @@ They are trained on vast amounts of text and can perform tasks like translation,
 
 ---
 
-### **5. Architecture of LLMs**
-![llm architecture](https://github.com/user-attachments/assets/a0754ab7-140f-49a0-8485-0ffb6c95dd03)
-
-
-
-#### **Transformers**
-
-Transformers, introduced in the paper "Attention Is All You Need" (Vaswani et al., 2017), use an attention mechanism to process input sequences in parallel.
-
-Core Components:
-
-- Encoder: Processes input and extracts features (used in BERT)
-
-- Decoder: Generates output sequence (used in GPT)
-
-- Self-Attention: Determines relevance between words in a sequence
-
-- Positional Encoding: Adds sequence order information
-  #### **Architecture**
-  <img width="1200" height="775" alt="image" src="https://github.com/user-attachments/assets/0637eeab-7250-4cb4-b4ea-7748e5c84be6" />
-
-  ---
 
 ### **6. Training Process and Data Requirements**
 Training LLMs involves:
